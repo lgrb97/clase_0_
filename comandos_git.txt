@@ -1,3 +1,5 @@
 1- git init -> inicializa el repositorio
 2- git status -> obtenemos informacion del repositorio
 3- git add <archivos> -> agrego archivos al stage
+4- git commit -m "texto del commit"
+5- git log -> muestra los commits realizados
